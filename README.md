@@ -1,7 +1,7 @@
 # 🌐 Opnet-Vibe-Core: AI-Powered Network Logic Framework
 
 <p align="center">
-  <img src="1000023354.jpg" width="100%" alt="Project Banner">
+  <img src="Screenshot_2026-02-27-21-23-02-464_site.mises.browser-edit (1).jpg" width="100%" alt="Project Banner">
 </p>
 
 ## 🚀 Overview
@@ -29,7 +29,7 @@ The project status is officially listed as **LIVE** in the Vibecode Finance ecos
 | **Submission Date** | Feb 27, 2026 |
 
 <p align="center">
-  <img src="1000023354.jpg" width="80%" alt="Official Submission Proof">
+  <img src="Screenshot_2026-02-27-21-23-02-464_site.mises.browser-edit (1).jpg" width="80%" alt="Official Submission Proof">
 </p>
 
 ---
