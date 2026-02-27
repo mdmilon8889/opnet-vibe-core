@@ -40,7 +40,7 @@ This project has been successfully submitted to the **Vibecode Finance Ecosystem
 **Md Milon Hossain** Innovative developer specializing in decentralized applications and network logic.  
 
 [![GitHub](https://img.shields.io/badge/GitHub-mdmilon8889-black?style=flat&logo=github)](https://github.com/mdmilon8889)
-[![X](https://img.shields.io/badge/X-Follow-blue?style=flat&logo=x)](https://x.com/mdmilon8889)
+[![X](https://img.shields.io/badge/X-Follow-blue?style=flat&logo=x)](https://x.com/mdmilon0399)
 
 ---
 *Developed for the Future of Networking. 🛡️*
