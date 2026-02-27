@@ -1,6 +1,6 @@
 # 🌐 Opnet-Vibe-Core: AI-Driven Network Simulation logic
 
-![Banner](image_0.JPG)
+![Banner](https://github.com/mdmilon8889/opnet-vibe-core/blob/main/1000023354.jpg?raw=true
 
 ## 🚀 Overview
 **Opnet-Vibe-Core** is an advanced network simulation core designed to bridge the gap between AI-driven **Vibecoding** and professional, robust C-based network logic. Developed on the **Bitcoin L1** infrastructure, this project leverages **Opnet** to optimize discrete event simulations and enhance complex modeling performance.
@@ -31,7 +31,7 @@ The submission is successfully marked as **Complete**!
 > **Submission Date:** Feb 27, 2026  
 > **Platform:** [Vibecode Finance](https://vibecode.finance)
 
-![Final Submission Proof](image_0.JPG)
+![Final Submission Proof]![Official Status](https://github.com/mdmilon8889/opnet-vibe-core/blob/main/1000023354.jpg?raw=true)
 
 ---
 
