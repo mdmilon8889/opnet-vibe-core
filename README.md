@@ -26,4 +26,4 @@ This repository focuses on designing and analyzing network models using **OPNET 
 Since this is a Vibecoding-driven project, you can find the logic flow in the `/prompts` folder. To run the simulations, import the `.project` files into your OPNET environment.
 
 ---
-*Created with ❤️ by [Md Milon Hossain/mdmilon8889]*
+*Created with ❤️ by [Md Milon Hossain/mdmilon0399]*
