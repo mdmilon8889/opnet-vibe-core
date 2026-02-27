@@ -1,0 +1,1 @@
+> "Act as an OPNET Expert. Generate a C-based network logic for a Bitcoin L1 node. Ensure the state machine handles IDLE and PROCESS states with minimum latency using Opnet-Vibe techniques."
